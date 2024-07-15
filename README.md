@@ -235,6 +235,7 @@
 - [Telephone](http://www.64characters.com/telephone/) - A SIP softphone. Make phone calls over the Internet or your company’s network. [![Open-Source Software][OSS Icon]](https://github.com/eofster/Telephone) ![Freeware][Freeware Icon]
 - [TextExpander](https://smilesoftware.com/textexpander) - Create custom keyboard shortcuts for frequently-used text and pictures.
 - [Timing](https://timingapp.com/) - Automatic time and productivity tracking for Mac. Helps you stay on track with your work and ensures no billable hours get lost if you are billing hourly.
+- [Zen Sounds](https://app.zensounds.studio) - [![Freeware][Freeware Icon] ![Open-Source Software][OSS Icon]] Discover tranquility at your fingertips with nature's melodies. Zen Sounds is a macOS app offering curated ambient soundscapes to enhance focus and relaxation. Bring serenity to your workspace with just a few clicks.
 
 
 ### Sharing Files
