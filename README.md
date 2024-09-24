@@ -200,6 +200,7 @@
 ### Productivity
 
 - [Alfred](https://www.alfredapp.com/) - Boosts your efficiency and productivity.
+- [app-menu](https://github.com/barseghyanartur/app-menu/) - The missing Applications Menu for macOS. [![Open-Source Software][OSS Icon]](https://github.com/barseghyanartur/app-menu/) ![Freeware][Freeware Icon]
 - [BetterTouchTool](https://folivora.ai) - Configure gestures for mouse and actions for keyboard shortcuts.
 - [ClipMenu](http://www.clipmenu.com/) - ClipBoard History Manager. [![Open-Source Software][OSS Icon]](https://github.com/naotaka/ClipMenu) ![Freeware][Freeware Icon]
 - [CloudClip](http://www.thinkbitz.com/cloudclip/) - Sync your clipboard between your Mac and your iOS devices. ![Freeware][Freeware Icon]
