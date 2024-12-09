@@ -304,6 +304,7 @@
 - [Notational Velocity](http://notational.net/) - Store, retrieve and sync notes within a minimal GUI. [![Open-Source Software][OSS Icon]](https://github.com/scrod/nv/) ![Freeware][Freeware Icon]
 - [Noti](https://noti.center/) - Receive Android notifications on your mac (with PushBullet). [![Open-Source Software][OSS Icon]](https://github.com/jariz/Noti/) ![Freeware][Freeware Icon]
 - [Numi](http://numi.io/) - Beautiful calculator app. ![Freeware][Freeware Icon]
+- [OmniDiskSweeper](https://www.omnigroup.com/more) - OmniDiskSweeper is a disk space analyzer app that shows files on your drive, largest to smallest. You can quickly Trash or open them. ![Freeware][Freeware Icon]
 - [OnyX](http://www.titanium.free.fr/) -  Multifunction utility to verify disks and files, run cleaning and system maintenance tasks, configure hidden options and more. ![Freeware][Freeware Icon]
 - [Paparazzi](http://derailer.org/paparazzi/) - A small utility that makes screenshots of webpages. ![Freeware][Freeware Icon]
 - [Paragon NTFS](http://www.paragon-drivers.com/ntfs-mac/) - World fastest NTFS driver.
@@ -325,7 +326,6 @@
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
 - [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware][Freeware Icon]
 - [Wineskin](https://github.com/Gcenx/WineskinServer) - Run Windows applications and games on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Gcenx/WineskinServer) ![Freeware][Freeware Icon]
-- [OmniDiskSweeper](https://www.omnigroup.com/more) - OmniDiskSweeper is a disk space analyzer app that shows files on your drive, largest to smallest. You can quickly Trash or open them. ![Freeware][Freeware Icon]
 
 ### Video
 
