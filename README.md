@@ -325,6 +325,7 @@
 - [Übersicht](http://tracesof.net/uebersicht/) - Run system commands and display their output on your desktop as widgets. [![Open-Source Software][OSS Icon]](https://github.com/felixhageloh/uebersicht) ![Freeware][Freeware Icon]
 - [The Unarchiver](https://theunarchiver.com/) - Unarchive many different kinds of archive files. ![Freeware][Freeware Icon]
 - [Wineskin](https://github.com/Gcenx/WineskinServer) - Run Windows applications and games on your Mac. [![Open-Source Software][OSS Icon]](https://github.com/Gcenx/WineskinServer) ![Freeware][Freeware Icon]
+- [OmniDiskSweeper](https://www.omnigroup.com/more) - OmniDiskSweeper is a disk space analyzer app that shows files on your drive, largest to smallest. You can quickly Trash or open them. ![Freeware][Freeware Icon]
 
 ### Video
 
